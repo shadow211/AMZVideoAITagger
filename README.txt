@@ -1,14 +1,4 @@
+把视频放入文件夹，运行   亚马逊视频AI标记.bat
 
-ExifTool package for 64-bit Windows
-___________________________________
 
-Double-click on "exiftool(-k).exe" to read the application documentation, or
-drag-and-drop files to extract metadata.
-
-For command-line use, rename to "exiftool.exe".
-
-Run directly in from the exiftool-##.##_64 folder, or copy the .exe and the
-"exiftool_files" folder to wherever you want (preferably somewhere in your
-PATH) to run from there.
-
-See https://exiftool.org/install.html for more installation instructions.
+bat 里的中文提示是 GBK/UTF-8 混排环境下的产物，如果你的 cmd 窗口显示乱码，把 bat 另存为 ANSI 即可；纯英文目录名和视频路径不受影响。另外文件名里带 & 或 ! 的极端情况，标签本身仍会正确写入，只是控制台/报告里那一行会显示错位。
