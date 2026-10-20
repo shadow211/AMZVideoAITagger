@@ -1,0 +1,7 @@
+亚马逊商品视频 AI 标记报告
+生成时间: 周二 2026/10/20 15:55:16.16
+目标目录: F:\OneDrive\桌面\exiftool-13.59_64\exiftool-13.59_64
+标签: contains-synthetic-performer
+模式: contains-synthetic-performer 存在即已标记
+
+[已标记] QQ20261020-155039.mp4

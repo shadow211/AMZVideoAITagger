@@ -1,0 +1,6 @@
+亚马逊视频 AI 标记检查报告
+目标目录: F:\OneDrive\桌面\exiftool-13.59_64\exiftool-13.59_64
+校验字段: XMP-dc:Subject
+目标关键词: contains-synthetic-performer
+
+[已标记] QQ20261020-155039.mp4
